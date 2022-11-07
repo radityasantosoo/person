@@ -1,3 +1,3 @@
-module github.com/radityasantosoo/greet
+module github.com/radityasantosoo/person
 
 go 1.19
